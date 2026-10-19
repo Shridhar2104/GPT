@@ -10,3 +10,6 @@ checkpoints/
 *.pt
 *.bin
 wandb/
+
+# Claude Code worktrees
+.claude/worktrees/
